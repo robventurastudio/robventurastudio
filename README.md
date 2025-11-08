@@ -19,7 +19,7 @@ A universal scaling law derived from the Fisher–KPP framework:
 Validated across five domains — neural, biological, social, cosmic, and quantum — with mean error < 5%.  
 This relation, known as **The Coherence Law**, describes how order spreads through systems that both diffuse and self-reinforce.
 
-**Repository:** [CoherenceLaw](https://github.com/robventurastudio/coherencelaw)
+**Repository:** [CoherenceLaw](https://github.com/robventurastudio/coherence-law)
 
 ---
 
