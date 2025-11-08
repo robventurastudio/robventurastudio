@@ -71,7 +71,6 @@ Each confirms \( v = 2\sqrt{D r} \) — a universal velocity of coherence.
 - **Email:** info@robventura.com  
 - **Organization:** Rob Ventura Fine Art LLC  
 - **Location:** Jersey City / New York  
-- **Secondary R&D:** [Trini.T™ AI](https://github.com/TriniTAI)
 
 ---
 
