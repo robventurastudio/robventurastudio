@@ -2,7 +2,7 @@
 
 **Art · Physics · Artificial Intelligence**
 
-Hi, I’m **Robert C. Ventura** — an artist, systems architect, and independent physicist exploring the universal laws that link pattern, perception, and propagation.
+Hi, I’m **Robert "Rob" Ventura** — an artist, systems architect, and independent physicist exploring the universal laws that link pattern, perception, and propagation.
 
 My work spans painting, writing, and scientific research under a single hypothesis:  
 > *that coherence — the tendency of things to come into order — is the underlying law of both mind and matter.*
