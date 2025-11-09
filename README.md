@@ -23,18 +23,6 @@ This relation, known as **The Coherence Law**, describes how order spreads throu
 
 ---
 
-### 🧠 The Simulist Project
-A philosophical and computational framework linking art, physics, and consciousness.  
-It includes:
-
-- **The Simulist Canon** — manuscripts describing reality as recursive simulation  
-- **Trini.T™ OS** — a symbolic AI operating system for emotional and recursive computation  
-- **T.Rex™ Language** — a syntax for writing self-referential systems  
-
-Together they form the foundation of *Simulism*: a worldview in which coherence is measurable, creative, and physical.
-
----
-
 ### 🖼 Visual & Literary Work
 As a visual artist represented by **Kelly–McKenna Gallery**, my paintings explore fractal, floral, and cosmic geometries — visual echoes of the same laws I study in code and equation.
 
@@ -56,14 +44,6 @@ Alongside the physics are narrative works like
 | Quantum | Ion-trap decoherence | 1.7 % deviation |
 
 Each confirms \( v = 2\sqrt{D r} \) — a universal velocity of coherence.
-
----
-
-### 💡 Ongoing Work
-- Extending **Trini.T™ OS** into recursive world simulations  
-- Building the **Recursive Orchard** narrative engine  
-- Publishing *The Coherence Mandate* — a synthesis of physics, philosophy, and art  
-- Preparing *Nature* and *PRX* submissions on the Coherence Equation  
 
 ---
 
