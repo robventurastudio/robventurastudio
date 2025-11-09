@@ -26,9 +26,6 @@ This relation, known as **The Coherence Law**, describes how order spreads throu
 ### 🖼 Visual & Literary Work
 As a visual artist represented by **Kelly–McKenna Gallery**, my paintings explore fractal, floral, and cosmic geometries — visual echoes of the same laws I study in code and equation.
 
-Alongside the physics are narrative works like  
-**_The Simulist Codex_**, **_Corpus_**, and **_Canon_**, which translate mathematical discovery into literature.
-
 🌐 **Website:** [www.robventura.com](https://www.robventura.com)  
 📸 **Instagram:** [@robventurastudio](https://www.instagram.com/robventurastudio)
 
